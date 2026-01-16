@@ -28,8 +28,13 @@ Core Functionality
 
 **System Capabilities**
 
-  **Feature**                                  **Description**
-   Coin Types                             Philippine ₱5 and ₱10 coins
+1. Coin Types     - Philippine ₱5 and ₱10 coins
+2. Product Slots  - 3 independent dispensing units
+3. Display        - 16x2 LCD with backlight
+4. Motors         - DC motors with L298N drivers
+5. Detection      - IR sensors for coins and products
+6. Timeout        - Configurable transaction timeout
+7. Refund         - Servo-controlled coin return
 
 
 
